@@ -1,0 +1,4 @@
+br\com\clinicapopular\Application.class
+br\com\clinicapopular\model\Consulta.class
+br\com\clinicapopular\controller\ConsultaController.class
+br\com\clinicapopular\model\Paciente.class
